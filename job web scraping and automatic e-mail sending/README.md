@@ -7,11 +7,11 @@ Description: The project aimed to collect job data from the website 'Vagas.com' 
 
 Objectives:
 
-1) Collect the folowing informations: Role, Company, level, <b>link</b> and storage them in a DataFrame.
+1) Collect the folowing informations: <b>Role</b>, <b>Company</b> , <b>level</b> , <b>link</b> and storage them in a DataFrame.
 2) Transform the DataFrame in a spreadsheet.
 3) Send an personalized e-mail with the spreadsheet created.
 
-<ul>Python libraries:</ul>
+<ul><h4>Python libraries:</h4></ul>
 
 <li>BeautifulSoup</li>
 <li>requests</li>
