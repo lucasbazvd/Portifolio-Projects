@@ -1,6 +1,6 @@
 <h2>Job web scraping and automatic e-mail sending</h2>
-<h4>Made in: feb/2022</h4>
-<h4>Last Update: feb/2022</h4>
+<h4>Made in: <b>feb-2022</b></h4>
+<h4>Last Update: <b>feb-2022</b></h4>
 <h3>Project Overview</h3>
 
 <h4>Motivation:</h4> Simplify Job Searching, learn how to scrap data from web and learn how to send an e-mail using python.
