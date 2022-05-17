@@ -5,7 +5,7 @@
 
 <h4>Motivation:</h4> Simplify product searching, develop my programming and webscrapping skills and practice Exploratory Data Analysis.
 
-<h4>Description:</h4>This program collect data from <b>Amazon.com</b> by a search term defined by the user. Then it transform the collected data in a dataframe and do a EDA. 
+<h4>Description:</h4>This program collect data from <b>Amazon.com</b> by a search term defined by the user. Then it transforms the collected data in a dataframe and do a EDA. 
 
 <h4>Objectives:</h4>
 
