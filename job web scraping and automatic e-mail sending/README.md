@@ -13,7 +13,7 @@
 2) Transform the DataFrame in a spreadsheet.
 3) Send an personalized e-mail with the spreadsheet created.
 
-<ul><h3>Python libraries:</h3></ul>
+<ul><h3>Python libraries and modules:</h3></ul>
 
 <li>BeautifulSoup</li>
 <li>requests</li>
