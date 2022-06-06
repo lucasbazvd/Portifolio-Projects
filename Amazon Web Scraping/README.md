@@ -20,6 +20,6 @@
 <li>pandas</li>
 <li>Selenium</li>
 <li>Chrome Web Driver</li>
-<li>MatPlotLib</li>
+<li>Plotly</li>
 
 
